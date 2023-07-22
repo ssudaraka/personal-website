@@ -9,7 +9,7 @@ export default function Home() {
       </header>
       <section>
           <p>
-            Hello there, welcome to my personal website! I'm sorry there's nothing much to see at the moment. I'm still working on creating by developer blog here.
+            Hello there, welcome to my personal website! I&apos;m sorry there&apos;s nothing much to see at the moment. I&apos;m still working on creating by developer blog here.
           </p>
           <p>
           In the meantime, you may enjoy my old personal blog (written in Sinhala) <a href="https://blog.sudaraka.com">here.</a>
